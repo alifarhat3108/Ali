@@ -67,6 +67,7 @@ as it provides flexibility, scalability, and resource optimization. It has trans
 
 -virtual box is a type 2 hypervisor
 
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hyperviseur.svg/1920px-Hyperviseur.svg.png)
 
 
 Type 1 and Type 2 hypervisors are two distinct categories of virtualization software 
